@@ -1,5 +1,5 @@
 # CBU-Capestone-Project-ABC-Music-Academy-
-Analyzing ABC Academy of Music’s performance, we integrated subscription, invoice, and attendance data to assess service metrics and demo-to-paid conversions. This data-driven assessment identifies key patterns in payment behavior and client engagement to optimize revenue and reduce default payments. This is a private data, therefore cannot disclose it without the permission of the company.
+Analyzing ABC Academy of Music’s performance, we integrated subscription, invoice, and attendance data to assess service metrics and demo-to-paid conversions. This data-driven assessment identifies key patterns in payment behaviour and client engagement to optimise revenue and reduce default payments. This is private data; it cannot be disclosed without the company's authorisation. And therefore, the results cannot be disclosed either.
 
 1) INTRODUCTORY INFORMATION
 This project consists of three analytical modules (Q1, Q2, Q3) focusing on service performance, sales behavior, and conversion analytics to support business decision-making.
